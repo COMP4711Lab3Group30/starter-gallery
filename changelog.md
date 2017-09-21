@@ -22,7 +22,10 @@ Release Date: Sep 21, 2017
 ## Updated Components
 
 -   controllers
-    - updated Welcome controller
+- updated About controller (4:12pm)
+    - updated Gallery controller (4:12pm)
+    - updated Welcome controller (4:12pm)
+    - updated Welcome controller 
 
    
 
@@ -30,6 +33,10 @@ Release Date: Sep 21, 2017
 
    
 -   views
+    - updated Welcome view
+    - updated About view
+    - updated Teplate view
+    - updated Gallery view
 
     
 
