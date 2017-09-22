@@ -22,7 +22,7 @@ Release Date: Sep 21, 2017
 ## Updated Components
 
 -   controllers
-- updated About controller (4:12pm)
+	- updated About controller (4:12pm)
     - updated Gallery controller (4:12pm)
     - updated Welcome controller (4:12pm)
     - updated Welcome controller 
