@@ -1,33 +1,42 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  Gisu Kim (Captain) & Michael O (Mate)  
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 ## *Version x.x*
 
-Release Date: Jul 26, 2027
+Release Date: Sep 21, 2017
 
 ## New Components
+- Added Gallery controller
+- Added About controller
+- Added about.php view
+- Added gallery.php view
+- Added welcome.php view
+- Removed welcome_message.php
 
--   controllers
 
-    -   serbian (AB)
+  
     
 ## Updated Components
 
 -   controllers
+- updated About controller (4:12pm)
+    - updated Gallery controller (4:12pm)
+    - updated Welcome controller (4:12pm)
+    - updated Welcome controller 
 
-    -   german (CD)
-    -   hindi (CD)
+   
 
 -   models
 
-    -   italian (AB)
-
+   
 -   views
+    - updated Welcome view
+    - updated About view
+    - updated Teplate view
+    - updated Gallery view
 
-    -   slovenian (AB)
-    -   swedish
-
+    
 
